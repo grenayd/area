@@ -1,0 +1,4 @@
+To see your surroundings, type @GSCAN@D. You will see everything in the six
+directions within a radius of three rooms.
+
+For more information on finding your target, see @GHELP HUNT@D.

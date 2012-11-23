@@ -1,0 +1,14 @@
+To shoot in this game, you use the @GSHOOT@D command and a direction such as
+@GN@D or @GEAST@D. Your gun will fire a pulse of energy in the direction
+specified, which will die if it passes through more than three rooms. If your
+shot passes through a room with another character (e.g. the @GLASERBOT@D),
+there is a chance it will hit it and place it in a random room. You will
+gain 10 points for each hit, but lose 5 points for each hit on you.
+
+You only have 6 shots. If you run out of shots, you must go back to the @GBASE@D
+(the room you started in) and @GRECHARGE@D (see @GHELP RECHARGE@D)
+
+(Hint: Instead of typing @GSHOOT EAST@D, you can type @GSH E@D)
+
+(For more information on searching for your target, check @GHELP SCAN@D
+and @GHELP HUNT@D)

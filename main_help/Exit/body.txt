@@ -1,0 +1,5 @@
+To move in a direction, the room you are in must have an exit in that
+direction. To see what exits are in a room, look under the map.
+There will be a line that reads 'You can go ..."
+
+To see how to move in a direction, see @GHELP MOVEMENT@D.

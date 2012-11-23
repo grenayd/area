@@ -1,0 +1,3 @@
+Typing @GHUNT <TARGET>@D will give you a small hint as to where @G<TARGET>@D
+is, but you will have to wait two seconds before you will be able to enter
+another command.

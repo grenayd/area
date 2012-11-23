@@ -1,0 +1,6 @@
+This game is built around movement.  To move, you must type a compass 
+direction. The directions are @GNORTH@D, @GEAST@D, @GSOUTH@D, @GWEST@D, @GUP@D, @GDOWN@D,
+but you do not have to type so much. A simple @GE@D or @GU@D will suffice.
+
+You can only move if the room contains an exit in that direction.
+(@GHELP EXIT@D)

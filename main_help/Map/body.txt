@@ -1,0 +1,31 @@
+This game will draw a map for (almost) every room. Here is an
+example:  
+
+     In the Lasertag Arena
+     
+     
+     
+     
+     
+     
+        (YOU ARE HERE)
+                   |
+              -----V-----
+             |[ ] .#. . .|
+              ---        |
+                 |. .|. .|
+                 |   |   |
+                 |. .|. .|
+                 |
+                 |. . . . . .|
+                  -----------
+
+     You can go east, south, or west.
+     
+The # represents you.
+
+Walls are | and ---. The two characters in a room are the terrain.
+There are many terrains. For example, in this map, "[ ]" means "inside"
+and ". ." means you are in a city or a road.
+
+To fully understand the map, you must move around. (@GHELP MOVEMENT@D)

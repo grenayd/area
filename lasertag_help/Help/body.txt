@@ -1,0 +1,28 @@
+          @CWelcome to Lasertag.
+          
+  @DIn this text game, you must @GMOVE@D around and attempt to @GSHOOT@D
+an automaton called a @GLASERBOT@D.
+
+  You may @GMOVE@D by typing @GNORTH@D, @GEAST@D, @GSOUTH@D, or @GWEST@D,
+but you may omit any amount of trailing letters as long as your command
+does not clash with another.
+
+  To @GSHOOT@D, you will type @GSHOOT <DIRECTION>@D. A direction may be any
+compass direction or its first letter. Note that as you can abbreviate
+@C"shoot"@D, you may not abbreviate it to @C"s"@D as it will instead move
+you south. The recommended abbreviation is @C"sh"@D. (See @GHELP SHOOTING
+@Dfor more details)
+
+  @GSHOOT@Ding will send a pulse of energy in the direction specified. If the
+pulse enters a room another character is in, the other character will be
+@GHIT@D. This results in the character being placed in a random room in the
+@GMAZE@D.
+
+  Finally, you may @GSCAN@D your surroundings by typing just that.
+
+  @WGood luck; the bot moves fast.@D
+  
+  (If you are wondering what that map-like thing is in the middle, see
+    @GHELP MAP@D)
+    
+  (To see how the automaton works, see @GHELP LASERBOT@D)

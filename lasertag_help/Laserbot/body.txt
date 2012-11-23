@@ -1,0 +1,18 @@
+Your nemesis in this game is an automaton called the @GLASERBOT@D. Here is how
+it plays:
+
+  1. either:
+      @GHUNT@D player and move in direction
+     or:
+      move in random direction
+    
+  2. scan
+  
+  3. if player is one room away, shoot at player.
+  
+  4. if out of shots, run back to base and @GRECHARGE@D
+  
+  
+  
+  (If a word is marked in @GGREEN@D, you can type @GHELP <THAT WORD>@D to
+  see more information about it.)
